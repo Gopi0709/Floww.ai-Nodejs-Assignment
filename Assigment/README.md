@@ -32,8 +32,8 @@ Summary Endpoints
 Middleware
 
 Setup and Running
-git clone https://github.com/your-username/expense-tracker-api.git
-cd expense-tracker-api
+git clone https://github.com/Gopi0709/Floww.ai-Nodejs-Assignment/
+cd Assignment
 
 Install Dependencies
 npm install
